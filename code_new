@@ -1,4 +1,4 @@
-git clone https://github.com/WalterLopezValiente/ejercicio_2.git
+git clone https://github.com/Jassiel01/ejercicio_2.git
 cd ejercicio_2
 git checkout -b ejercicio_intermedio
 git add invertir_lista.pl
